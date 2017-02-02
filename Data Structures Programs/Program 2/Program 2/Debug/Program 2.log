@@ -1,0 +1,23 @@
+﻿Build started 10/17/2016 12:12:24 PM.
+     1>Project "C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Program 2\Program 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Point.cpp Polygon.cpp Prog2.cpp
+         Point.cpp
+         Generating Code...
+         Compiling...
+         Prog2.cpp
+         Polygon.cpp
+     1>c:\users\j1m5s_000\desktop\data structures programs\program 2\program 2\polygon.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\j1m5s_000\desktop\data structures programs\program 2\program 2\polygon.cpp(29): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\j1m5s_000\desktop\data structures programs\program 2\program 2\polygon.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Debug\Program 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Debug\Program 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Debug\Program 2.lib" /MACHINE:X86 Debug\Point.obj
+         Debug\Polygon.obj
+         Debug\Prog2.obj
+         Program 2.vcxproj -> C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Debug\Program 2.exe
+     1>Done Building Project "C:\Users\j1m5s_000\Desktop\Data Structures Programs\Program 2\Program 2\Program 2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.36
